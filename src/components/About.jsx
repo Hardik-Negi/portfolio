@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white "
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full ">
         <div className="pb-8 sm:pb-2">
@@ -19,7 +19,7 @@ const About = () => {
           Communication from Maharaja Surajmal Institute of Technology.
         </p>
         <br />
-        <p className="text-xl ">
+        <p className="text-xl mb-10 ">
           My professional journey started with Graphketing (service based startup) and during my intership i explored technologies like developing robust applications like
           task management systems and legal case management platforms,
           showcasing my expertise in React.js, Tailwind CSS, and Redux Toolkit.
