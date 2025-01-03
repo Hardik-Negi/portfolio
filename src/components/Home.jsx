@@ -14,8 +14,8 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">I'm a React Developer</h2>
           <p className="text-gray-500 py-4 max-w-lg">
             I have 1 year of experience building and designing software.
-            Currently, I love to work on web application using technologies like
-            React,Tailwind,Node Js and Redux Toolkit.{" "}
+            I love to work on web application using technologies like
+            React,Tailwind,Node Js,Express,Mongodb and Redux Toolkit.
           </p>
           <div className="">
             <Link to="portfolio" smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer hover:scale-105 duration-200">

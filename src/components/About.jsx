@@ -12,21 +12,15 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20 sm:mt-6" >
-          I am Hardik Negi, a passionate and detail-oriented React.js Developer
-          with hands-on experience in creating dynamic and responsive user
-          interfaces. With a strong academic foundation in Electronics and
-          Communication from Maharaja Surajmal Institute of Technology.
+        <p className="text-lg lg:text-xl mt-20 sm:mt-6" >
+        I am Hardik Negi, a passionate and detail-oriented React.js Developer with hands-on experience in creating dynamic and responsive user interfaces. With a strong academic foundation in Electronics and Communication from Maharaja Surajmal Institute of Technology.
         </p>
         <br />
-        <p className="text-xl mb-10 ">
-          My professional journey started with Graphketing (service based startup) and during my intership i explored technologies like developing robust applications like
-          task management systems and legal case management platforms,
-          showcasing my expertise in React.js, Tailwind CSS, and Redux Toolkit.
-          I am committed to leveraging my skills in software
-          development to create impactful applications. I am always eager to
-          embrace new challenges and collaborate with diverse teams to deliver
-          innovative solutions.
+        <p className="text-lg mb-10 lg:text-xl">
+          My professional journey started with Graphketing (service based startup) and during my internship i explored technologies like developing robust applications like
+          task management, Frienxe and Mgco legal,
+          showcasing my expertise in React.js, Tailwind CSS, and Redux Toolkit.I bring strong problem-solving abilities, team collaboration skills, and a commitment to leveraging cutting-edge technologies to create impactful applications. I am eager to embrace new challenges and contribute to innovative solutions in the tech industry.
+          
         </p>
       </div>
     </div>
