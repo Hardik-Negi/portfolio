@@ -1,13 +1,14 @@
 import React from "react";
 import css from "../assets/css.png";
 import github from "../assets/github.png";
-import graphql from "../assets/graphql.png";
+import express from "../assets/express.png";
 import html from "../assets/html.png";
 import javascript from "../assets/javascript.png";
-import next from "../assets/nextjs.png";
+import mongoDb from "../assets/mongoDB.png";
 import node from "../assets/node.png";
 import react from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
+import redux from "../assets/Redux.png";
 
 const Experience = () => {
   const experiences = [
@@ -37,8 +38,8 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: next,
-      title: "Next JS",
+      src: mongoDb,
+      title: "Mongo DB",
       style: "shadow-white",
     },
     {
@@ -49,8 +50,8 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
+      src: redux,
+      title: "Redux Toolkit",
       style: "shadow-pink-400",
     },
     {
@@ -59,12 +60,18 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-500",
     },
-    {
-      id: 9,
-      src: node,
-      title: "HTML",
-      style: "shadow-orange-500",
-    },
+      {
+        id: 9,
+        src: node,
+        title: "Node JS",
+        style: "shadow-orange-500",
+      },
+    // {
+    //   id: 10,
+    //   src: express,
+    //   title: "Express",
+    //   style: "shadow-orange-500",
+    // },
   ];
   return (
     <div
