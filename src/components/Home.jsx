@@ -13,7 +13,7 @@ const Home = () => {
         <div className="flex flex-col justify-center mt-20 ">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">I'm a React Developer</h2>
           <p className="text-gray-500 py-4 max-w-lg">
-            I have 1 year of experience building and designing software.
+            I have 6 Months of experience building and designing software.
             I love to work on web application using technologies like
             React,Tailwind,Node Js,Express,Mongodb and Redux Toolkit.
           </p>
